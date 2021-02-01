@@ -1,0 +1,13 @@
+C:\Users\jahhh\GrandCircus\Capstone2TaskList\bin\Debug\netcoreapp3.1\Capstone2TaskList.exe
+C:\Users\jahhh\GrandCircus\Capstone2TaskList\bin\Debug\netcoreapp3.1\Capstone2TaskList.deps.json
+C:\Users\jahhh\GrandCircus\Capstone2TaskList\bin\Debug\netcoreapp3.1\Capstone2TaskList.runtimeconfig.json
+C:\Users\jahhh\GrandCircus\Capstone2TaskList\bin\Debug\netcoreapp3.1\Capstone2TaskList.runtimeconfig.dev.json
+C:\Users\jahhh\GrandCircus\Capstone2TaskList\bin\Debug\netcoreapp3.1\Capstone2TaskList.dll
+C:\Users\jahhh\GrandCircus\Capstone2TaskList\bin\Debug\netcoreapp3.1\Capstone2TaskList.pdb
+C:\Users\jahhh\GrandCircus\Capstone2TaskList\obj\Debug\netcoreapp3.1\Capstone2TaskList.csprojAssemblyReference.cache
+C:\Users\jahhh\GrandCircus\Capstone2TaskList\obj\Debug\netcoreapp3.1\Capstone2TaskList.AssemblyInfoInputs.cache
+C:\Users\jahhh\GrandCircus\Capstone2TaskList\obj\Debug\netcoreapp3.1\Capstone2TaskList.AssemblyInfo.cs
+C:\Users\jahhh\GrandCircus\Capstone2TaskList\obj\Debug\netcoreapp3.1\Capstone2TaskList.csproj.CoreCompileInputs.cache
+C:\Users\jahhh\GrandCircus\Capstone2TaskList\obj\Debug\netcoreapp3.1\Capstone2TaskList.dll
+C:\Users\jahhh\GrandCircus\Capstone2TaskList\obj\Debug\netcoreapp3.1\Capstone2TaskList.pdb
+C:\Users\jahhh\GrandCircus\Capstone2TaskList\obj\Debug\netcoreapp3.1\Capstone2TaskList.genruntimeconfig.cache
